@@ -1,7 +1,7 @@
 # File Name: Text Compression - textfile.py
 # Purpose: Program can compresses and decompresses textfiles
 # Date: 2015-01-15
-# Last modified: 2020-01-15
+# Last modified: 2015-01-15
 # Author: Josen Pottackal
 # Copy right no copyright
 # Version: 1.0
